@@ -1,0 +1,56 @@
+{
+    "name": "Tap",
+    "maps": [
+        {
+            "name": "Tapaction",
+            "id": "d3f721cd-4c4a-43e0-a92c-63fa60ea9a9b",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Button",
+                    "id": "5708cf0b-cd80-4863-a11f-6c0514f2a43f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8ffa4f57-d768-4b04-9ee3-fb6f88b24edd",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c43ac411-2fec-4acf-9183-4c546b723818",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5a267b28-aafd-48cf-b9c4-b306d3543b15",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
